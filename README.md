@@ -4,6 +4,7 @@ A simple Neural Network for multiple hidden layers
 The inspiration and parts of code are adapted from deeplearning.ai course "Neural Network and Deep Learning", but it has been generalized for many hidden layers.
 
 The implementation done is for the Kaggle competetion "Dogs vs Cats" and trained for images.
+Source URL - https://www.kaggle.com/c/dogs-vs-cats/overview
 
 Input X(Set of features for supervised learning) - numpy array
 Y - numpy array of shape : (1, num_examples)
